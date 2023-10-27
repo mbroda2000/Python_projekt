@@ -29,6 +29,18 @@ warnings: Module for managing warnings.
 What he discawer
 
 
+  1.  He divided how many people from the data have an eployment and how many is not
+  2.  He create histogram showing how many peoples have with yearcode,yearsCodePro, PreviousSalary, CounterSkill
+  3.  Show how many peole have low than >35 Years old
+  4.  Show how many people is: Man, Woman and non binary
+  5.  Show how many people haven't got MentalHealth
+  6.  Show how many peoples is Dev and NotDev
+  7.  Show how many people in this data have itch EdLev
+  8.  He show how many difirent coutry is in this data
+  9.  Show how many employees is in each country
+
+
+
 2. dima806, python
 
 libraries:
