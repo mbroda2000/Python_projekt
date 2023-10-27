@@ -31,32 +31,30 @@ What he discawer
 
 2. dima806, python
 
-numpy as np  # Import NumPy for handling numerical operations
-pandas as pd  # Import Pandas for data manipulation and analysis
-warnings  # Import Warnings to suppress unnecessary warnings
+libraries:
 
-
+numpy as np  
+pandas as pd
+warnings  
 warnings.filterwarnings("ignore")
-
-
 autoviz 
-
 dataprep.datasets 
 dataprep.eda 
-
 shap
-
 matplotlib.pyplot
-
 catboost 
 sklearn.metrics
-
 sklearn.model_selection
 feature_engine.encoding
 sklearn.feature_extraction.text
 ast
 re
 
+result:
+
+he visualised the correlations between almost evry variable in dataset
+
+maciek
 3. wanwei, python
 
  numpy as np 
@@ -91,3 +89,5 @@ On other plots Wanwei has emphesised corelation between computer skills and empl
 Also he has shown group of people above certain salary level to investigate deeper the circumstances of the most succesful people in DEV industry.
 
 sk commit
+=======
+
