@@ -53,3 +53,41 @@ re
 result:
 
 he visualised the correlations between almost evry variable in dataset
+
+maciek
+3. wanwei, python
+
+ numpy as np 
+ pandas as pd 
+ matplotlib.pyplot as plt
+ seaborn as sns
+ plotly.express as px
+ geopandas as gpd
+ mpl_toolkits.mplot3d 
+ sklearn.model_selection 
+ sklearn.preprocessing 
+ sklearn.metrics 
+ sklearn.ensemble 
+ sklearn.linear_model 
+ sklearn.svm 
+ sklearn.neighbors 
+ sklearn.naive_bayes 
+ warnings
+warnings.filterwarnings('ignore')
+
+ os
+for dirname, _, filenames in os.walk('/kaggle/input'):
+    for filename in filenames:
+        print(os.path.join(dirname, filename))
+
+Wanwei has visualized on plots proportion of genders based dataset connected to DEV industry.  
+
+Also he has shown on two plots how many people at different educational levels find employement in this industry. 
+
+On other plots Wanwei has emphesised corelation between computer skills and employement.
+
+Also he has shown group of people above certain salary level to investigate deeper the circumstances of the most succesful people in DEV industry.
+
+sk commit
+=======
+
