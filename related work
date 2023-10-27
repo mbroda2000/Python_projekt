@@ -1,0 +1,59 @@
+1. Dr. Eslam Fouad He used python langage. 
+
+libraries: 
+warnings: Module for managing warnings.
+
+ pandas: Library for working with data in tabular form (DataFrame).
+
+ numpy: A library for numerical calculations.
+
+ matplotlib: A library for plotting and visualizing data.
+
+ seaborn: A plotting library that is based on matplotlib and makes it easy to create nice plots.
+
+ missingno: Module for visualizing missing data in a dataset.
+
+ random: Module for generating random numbers.
+
+ collections: A module containing additional container types and tools for managing them.
+
+ plotly.express: Library for creating interactive plots.
+
+ geopandas: A library for working with geospatial data.
+
+ plotly.graph_objs: Plotly module for creating advanced plots.
+
+ scipy and scipy.stats: Library for scientific data analysis and statistics.
+
+
+What he discawer
+
+
+2. dima806, python
+
+numpy as np  # Import NumPy for handling numerical operations
+pandas as pd  # Import Pandas for data manipulation and analysis
+warnings  # Import Warnings to suppress unnecessary warnings
+
+
+warnings.filterwarnings("ignore")
+
+
+autoviz 
+
+dataprep.datasets 
+dataprep.eda 
+
+shap
+
+matplotlib.pyplot
+
+catboost 
+sklearn.metrics
+
+sklearn.model_selection
+feature_engine.encoding
+sklearn.feature_extraction.text
+ast
+re
+
