@@ -38,3 +38,19 @@ Cyprus
 Latvia
 Lithuania
 Estonia
+
+
+
+
+
+countries = [
+    'Australia', 'Austria', 'Belgium', 'Canada', 'Denmark', 'Finland', 'France',
+    'Germany', 'Hong Kong', 'Iceland', 'Ireland', 'Israel', 'Japan', 'Liechtenstein',
+    'Luxembourg', 'Malta', 'Netherlands', 'New Zealand', 'Norway', 'Singapore',
+    'Slovenia', 'South Korea', 'Spain', 'Sweden', 'Switzerland', 'United Arab Emirates',
+    'United Kingdom of Great Britain and Northern Ireland', 'United States of America', 'Italy', 'Czech Republic', 'Slovakia',
+    'Greece', 'Taiwan', 'Hong Kong', 'Croatia', 'Cyprus', 'Latvia', 'Lithuania', 'Estonia'
+]
+
+
+data['developed'] = data['Country'].isin(countries)
